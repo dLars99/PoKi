@@ -1,0 +1,2 @@
+﻿SELECT DISTINCT TOP 76 Name FROM Author
+ORDER BY Name;

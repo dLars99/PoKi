@@ -3,7 +3,7 @@
 
 The exercises in this chapter consist of creating SQL queries and answering questions.
 
-Queries are contained in the repo. Questions are answered below, where applicable.
+Queries are contained in the repo. Questions are answered below, where a short text answer is applicable.
 
 ### Questions/Answers
 
@@ -14,15 +14,15 @@ Queries are contained in the repo. Questions are answered below, where applicabl
 3. How many poems are in the database?
     A: 32842
 4. Sort authors alphabetically by name. What are the names of the top 76 authors?
-    A: Run script for answer
+    A: Run script for full answer
 5. Starting with the above query, add the grade of each of the authors.
-    A: Run script for answer
+    A: Run script for full answer
 6. Starting with the above query, add the recorded gender of each of the authors.
-    A: Run script for answer
+    A: Run script for full answer
 7. What is the total number of words in all poems in the database?
     A: 374584
 8. Which poem has the fewest characters?
-    A: "Hi" with 6 characters
+    A: _Hi_ with 6 characters
 9. How many authors are in the third grade?
     A: 2344
 10. How many authors are in the first, second, or third grades?
@@ -44,4 +44,6 @@ Queries are contained in the repo. Questions are answered below, where applicabl
 18. Which emotion is associated with the least number of poems?
     A: ```Anger``` with 11105 poems
 19. Which grade has the largest number of poems with an emotion of joy?
-    A: 5th Grade with 8928 poems
+    A: ```5th Grade``` with 8928 poems
+20. Which gener has the least number of poems with an emotion of fear?
+    A: ```Ambiguous``` with 1435 poems.
